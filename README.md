@@ -4,7 +4,7 @@
 - 🐱‍💻 I'm currently building up my [HackerRank](https://www.hackerrank.com/) profile to include in my portfolio and to polish my coding skills.
 - 🤓 I did student internship at the Philippine Genome Center wherein majority of the work was with Bash scripting.
 - 🎓 I studied computer science at the University of the Philippines Visayas.
-- 👇🏻 Please see my website for additional infos.
+- 👇🏻 Please see my developer portfolio website for additional infos.
 
 🏡 [website](https://ggianfranco.github.io/) | 💼 [linkedin](https://www.linkedin.com/in/ggianfranco/) | 🎹 [spotify](https://open.spotify.com/user/owduy27r9kl89gq5s1hyflty0?si=bc79dae4b4504d99) | 👨🏻‍💻 [hackerrank](https://www.hackerrank.com/GGianfranco) | 📧 freelancegianfranco@gmail.com
 
