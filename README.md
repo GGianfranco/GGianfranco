@@ -1,7 +1,7 @@
 ## Hi, I'm Gianfranco. 👋
 - 👔 I'm a former associate software engineer at Accenture.
 - 🧠 I'm currently learning web application development particularly with React, Node.js, and Firebase.
-- 🐱‍💻 I'm currently building up my [HackerRank profile](hackerrank.com/GGianfranco) to include in my portfolio and to polish my coding skills.
+- 🐱‍💻 I'm currently building up my [HackerRank profile](https://www.hackerrank.com/GGianfranco) to include in my portfolio and to polish my coding skills.
 - 🤓 I did student internship at the Philippine Genome Center wherein majority of the work was with Bash scripting.
 - 🎓 I studied computer science at the University of the Philippines Visayas.
 - 👇🏻 You can find me on these platforms for additional infos.
